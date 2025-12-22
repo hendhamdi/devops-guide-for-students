@@ -158,3 +158,42 @@ The resources/ folder provides:
 - YouTube channels
 
 - Official documentation links
+--- 
+
+## 🤝 Contribution
+
+Contributions are welcome!
+
+You can:
+
+- Improve explanations
+
+- Fix typos
+
+- Add diagrams or examples
+
+- Suggest new sections
+
+- Feel free to open an issue or pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+You are free to use, share, and modify it for educational purposes.
+
+---
+
+## ⭐ Support
+
+If this repository helps you:
+
+⭐ Star the repo
+
+🍴 Fork it
+
+📢 Share it with other students
+---
+
+Happy learning & welcome to DevOps 🚀
