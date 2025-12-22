@@ -112,18 +112,7 @@ Understand **how systems are observed and maintained in production**.
 
 ## 🧠 Recommended Learning Order (Summary)
 
-DevOps Basics
-↓
-Git & GitHub
-↓
-Docker
-↓
-CI/CD
-↓
-Kubernetes
-↓
-Monitoring
-
+DevOps Basics → Git & GitHub → Docker → CI/CD → Kubernetes → Monitoring
 
 ---
 
