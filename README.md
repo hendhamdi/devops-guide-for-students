@@ -124,6 +124,7 @@ devops-guide-for-students/
 * Visualization with Grafana
 
 ---
+
 ## 📊 Monitoring Tools Explained
 
 ### Prometheus
@@ -133,6 +134,7 @@ Used to collect system and application metrics (CPU, RAM, Pods, etc.)
 Used to visualize metrics with dashboards and graphs
 
 ---
+
 ## 🎓 Student Section
 
 The student-guide/ folder includes:
@@ -158,6 +160,7 @@ The resources/ folder provides:
 - YouTube channels
 
 - Official documentation links
+  
 --- 
 
 ## 🤝 Contribution
