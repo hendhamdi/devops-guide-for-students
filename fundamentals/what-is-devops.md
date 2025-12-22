@@ -57,6 +57,13 @@ The typical DevOps lifecycle has **six stages**:
 
 Plan → Code → Build → Test → Release → Deploy → Monitor
 
+
+### 🖼️ DevOps Lifecycle Diagram
+
+![DevOps Lifecycle](https://upload.wikimedia.org/wikipedia/commons/1/18/DevOps-toolchain.png "DevOps Toolchain")
+
+*Source: Wikimedia Commons*
+
 ---
 
 ## 🛠️ Why DevOps Matters
