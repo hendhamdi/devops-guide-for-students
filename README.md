@@ -184,6 +184,7 @@ You can:
 ## 📄 License
 
 This project is licensed under the MIT License.
+
 You are free to use, share, and modify it for educational purposes.
 
 ---
