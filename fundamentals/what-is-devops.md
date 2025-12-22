@@ -46,16 +46,17 @@ It **bridges the gap between development and operations**, promoting **collabora
 
 ## 🌐 DevOps Lifecycle
 
-The typical DevOps lifecycle has **six stages**:
+The typical DevOps lifecycle has **seven stages**:
 
 1. **Plan** – Define features and tasks  
 2. **Code** – Develop the application  
 3. **Build** – Compile code and create packages  
 4. **Test** – Automated testing to ensure quality  
 5. **Release/Deploy** – Deliver to production environments  
-6. **Monitor** – Observe performance and fix issues
+6. **Operate** – Maintain, optimize, and improve production systems  
+7. **Monitor** – Observe performance, gather metrics, and trigger feedback
 
-Plan → Code → Build → Test → Release → Deploy → Monitor
+Plan → Code → Build → Test → Release → Deploy → Operate → Monitor → Plan (continuous loop)
 
 
 ### 🖼️ DevOps Lifecycle Diagram
