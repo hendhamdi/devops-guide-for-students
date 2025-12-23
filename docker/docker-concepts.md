@@ -51,7 +51,7 @@ Containers are **lightweight, portable, and isolated** environments that run the
 
 ## 🖼️ Docker Concept Diagram
 
-![Docker Containers](../resources/images/docker/docker-containers.png "Docker Containers Overview")
+![Docker Containers](https://cdn-images-1.medium.com/max/1200/1*p8k1b2DZTQEW_yf0hYniXw.png "docker container")
 
 > Shows the difference between images and containers
 
@@ -102,4 +102,5 @@ It makes development, testing, and deployment simpler, faster, and more consiste
 It is a key tool in DevOps pipelines
 
 ➡️ Next step in learning:
+
 `kubernetes/kubernetes-basics.md` → Kubernetes fundamentals
