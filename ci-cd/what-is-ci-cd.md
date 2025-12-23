@@ -87,7 +87,10 @@ jobs:
         run: echo "Deploy commands here"
 ```
 
-! This is a conceptual example; you can adapt it to your projects.
+This is a conceptual example; you can adapt it to your projects.
+> 💡 Note for beginners: When deploying real applications, you should **never put passwords or keys directly in the workflow**.  
+> GitHub provides **Secrets** to store sensitive information safely.
+
 
 ---
 
