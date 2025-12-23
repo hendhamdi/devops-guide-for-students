@@ -79,9 +79,11 @@ By analyzing metrics history:
 
 ## 🖼️ Monitoring Architecture Diagram
 
-![Prometheus & Grafana Architecture](https://raw.githubusercontent.com/prometheus/docs/main/assets/prometheus-grafana.png "Prometheus & Grafana Architecture")
+![Prometheus & Grafana Monitoring](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Prometheus_Architecture.png/800px-Prometheus_Architecture.png "Prometheus & Grafana Monitoring")
 
-*Shows Prometheus scraping Node Exporter and cAdvisor, with Grafana dashboards visualizing metrics.*
+*Diagram showing the Prometheus monitoring stack: exporters, scraping, and Grafana for visualization.*  
+Source: Wikimedia Commons
+
 
 ---
 
