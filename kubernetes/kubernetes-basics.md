@@ -50,11 +50,9 @@ It helps you **deploy, scale, and maintain applications reliably**.
 
 ## 🖼️ Kubernetes Concept Diagram
 
-![Kubernetes Cluster Architecture](https://upload.wikimedia.org/wikipedia/commons/8/8c/Kubernetes_Cluster_Architecture.png "Kubernetes Cluster Architecture")
+![Kubernetes Architecture](https://images.ctfassets.net/w1bd7cq683kz/5Ex6830HzBPU5h8Ou8xQAB/2c948105fc10094348203bec6c1eab04/Kubernetes_20architecture_20diagram.png "Kubernetes Architecture")
 
-*Diagram showing the main components of a Kubernetes cluster: control plane, nodes, pods, and services.*  
-Source: Wikipedia / Wikimedia Commons
-
+*Diagram showing how the Kubernetes control plane manages worker nodes and Pods*
 
 ---
 
