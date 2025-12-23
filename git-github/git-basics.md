@@ -62,7 +62,7 @@ A branch allows you to work on features **without breaking main code**.
 ### 🔀 Merge
 Merge combines changes from one branch into another.
 
-![Git Branching Diagram](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_branching.svg)
+![Git Branching](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_branching.svg/800px-Git_branching.svg.png)
 
 ---
 
