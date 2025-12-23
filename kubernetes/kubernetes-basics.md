@@ -50,11 +50,11 @@ It helps you **deploy, scale, and maintain applications reliably**.
 
 ## 🖼️ Kubernetes Concept Diagram
 
-![Kubernetes Architecture](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg "Kubernetes Architecture")
+![Kubernetes Cluster Architecture](https://upload.wikimedia.org/wikipedia/commons/8/8c/Kubernetes_Cluster_Architecture.png "Kubernetes Cluster Architecture")
 
-*Diagram showing cluster, nodes, pods, and services*
+*Diagram showing the main components of a Kubernetes cluster: control plane, nodes, pods, and services.*  
+Source: Wikipedia / Wikimedia Commons
 
-> Source: Wikimedia Commons
 
 ---
 
@@ -77,6 +77,5 @@ A core tool for DevOps workflows with Docker and CI/CD
 
 ➡️ Next step in learning:
 
-monitoring/monitoring-basics.md → Prometheus & Grafana fundamentals
-kubectl describe pod <pod> # Get detailed info
-kubectl get services       # List services
+`monitoring/monitoring-basics.md` → Prometheus & Grafana fundamentals
+
