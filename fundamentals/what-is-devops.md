@@ -66,8 +66,6 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 
 *Illustration showing DevOps as the intersection of Development, Operations, and Quality Assurance*
 
-Source:(https://www.h-x.technology/services/devops)
-
 ---
 
 ## 🛠️ Why DevOps Matters
