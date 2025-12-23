@@ -60,7 +60,6 @@ devops-guide-for-students/
 ├── ci-cd/            # CI/CD and GitHub Actions explained
 ├── kubernetes/       # Kubernetes fundamentals
 ├── monitoring/       # Monitoring concepts
-├── student-guide/    # Study tips and exam questions
 └── resources/        # Free courses, books, and links
 ```
 ---
