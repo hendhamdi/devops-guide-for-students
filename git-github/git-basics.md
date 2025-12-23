@@ -62,7 +62,7 @@ A branch allows you to work on features **without breaking main code**.
 ### 🔀 Merge
 Merge combines changes from one branch into another.
 
-![Git Branching](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_branching.svg/800px-Git_branching.svg.png)
+![Git Branching](https://github.blog/wp-content/uploads/2024/05/git-concepts.png)
 
 ---
 
@@ -99,7 +99,7 @@ git pull              # Download updates
 
 - CI/CD pipeline runs automatically
 
-![Git Workflow Diagram](https://upload.wikimedia.org/wikipedia/commons/8/87/Git_workflow.svg)
+![Git Workflow Diagram](https://lh3.googleusercontent.com/gg-dl/ABS2GSlpBZWQZNN8jHgkCY-8HmU7ZW1DNZOFLT2z4rA7gOBEHg0-Ql2W9lY89ljTyD7WfkgDZHBMhzJE9q7n2RQDRxNgQb187RhvXDah2fAZiFevuTHWBiCMErE4PNlrVQSlVB6f-ZK4TEFh2S9n7Yn8TqcNIQb_E0ueBLEFz3zsrGgMevrFPw=s1024-rj)
 
   ---
 
