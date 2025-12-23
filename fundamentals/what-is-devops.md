@@ -62,7 +62,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 ### 🖼️ DevOps Lifecycle Diagram
 
 
-![DevOps Concept](https://www.thebyte.com.cn/assets/devops-2b77852c.jpeg "DevOps Concept Illustration")
+![DevOps Concept](https://th.bing.com/th/id/R.4a952fb63af02b64de63bf47d3a13e36?rik=A6uBVKPtcoy2nQ&pid=ImgRaw&r=0 "DevOps Concept Illustration")
 
 *Illustration showing DevOps as the intersection of Development, Operations, and Quality Assurance*
 
