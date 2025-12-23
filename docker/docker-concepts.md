@@ -51,9 +51,12 @@ Containers are **lightweight, portable, and isolated** environments that run the
 
 ## 🖼️ Docker Concept Diagram
 
-![Docker Containers](https://cdn-images-1.medium.com/max/1200/1*p8k1b2DZTQEW_yf0hYniXw.png "docker container")
+![Docker Image vs Container](https://user-images.githubusercontent.com/54731898/136222615-1d1c44ff-a0fe-412c-89cb-79a5a552f233.PNG "Docker Image vs Container")
 
-> Shows the difference between images and containers
+*Diagram showing the flow: Dockerfile → Image → Container*
+
+> Source: GitHub User Images
+
 
 ---
 
