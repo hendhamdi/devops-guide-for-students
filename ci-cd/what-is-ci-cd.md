@@ -36,7 +36,7 @@ that allows teams to **deliver software faster, reliably, and safely**.
 4. **Deploy** – Push to staging/production  
 5. **Monitor** – Check application health, logs, and alerts
 
-![CI/CD Pipeline](../resources/images/ci-cd/cd_ci-cd-pipeline-stages.jpeg "Typical CI/CD Pipeline")
+![CI/CD Pipeline](https://miro.medium.com/v2/resize:fit:1000/1*xflcf8tHIAf7jZE5eNyNlQ.jpeg "Typical CI/CD Pipeline")
 
 ---
 
