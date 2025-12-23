@@ -96,14 +96,10 @@ This is a conceptual example; you can adapt it to your projects.
 
 ## 📌 Summary
 
-CI/CD automates testing, build, and deployment
-
-Reduces manual errors and increases delivery speed
-
-Forms the backbone of modern DevOps workflows
-
+- CI/CD automates testing, build, and deployment
+- Reduces manual errors and increases delivery speed
+- Forms the backbone of modern DevOps workflows
 
 
 ➡️ Next step in learning:
-
-`docker/docker-basics.md` → Docker fundamentals
+📘`docker/docker-basics.md` → Docker fundamentals
