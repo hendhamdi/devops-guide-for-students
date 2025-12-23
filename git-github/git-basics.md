@@ -33,7 +33,7 @@ They enable **version control, collaboration, automation, and CI/CD workflows**.
 - GitHub Actions (CI/CD)
 - Code reviews
 
-![GitHub Workflow Diagram](https://docs.github.com/assets/images/help/repository/workflow-basic.png)
+![GitHub Pull Request Workflow](https://upload.wikimedia.org/wikipedia/commons/3/32/GitHub_Flow.png)
 
 ---
 
@@ -62,7 +62,7 @@ A branch allows you to work on features **without breaking main code**.
 ### 🔀 Merge
 Merge combines changes from one branch into another.
 
-![Git Branching Diagram](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_branching.svg "Git Branching Diagram")
+![Git Branching Diagram](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_branching.svg)
 
 ---
 
@@ -99,7 +99,7 @@ git pull              # Download updates
 
 - CI/CD pipeline runs automatically
 
-  ![Typical DevOps Flow Diagram](https://www.thebyte.com.cn/assets/devops-ne1eV-FD.jpeg)
+![Git Workflow Diagram](https://upload.wikimedia.org/wikipedia/commons/8/87/Git_workflow.svg)
 
   ---
 
