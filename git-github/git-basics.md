@@ -98,3 +98,33 @@ git pull              # Download updates
 - Review & Merge
 
 - CI/CD pipeline runs automatically
+
+  ![Typical DevOps Flow Diagram](https://www.thebyte.com.cn/assets/devops-ne1eV-FD.jpeg)
+
+  ---
+
+  ## 🚀 Why Git & GitHub Matter in DevOps
+
+- Enable CI/CD pipelines
+
+- Improve team collaboration
+
+- Ensure traceability & rollback
+
+- Automate testing & deployment
+
+- Foundation of Infrastructure as Code
+
+---
+
+## 📌 Summary
+
+Git manages code versions locally
+GitHub enables collaboration, automation, and DevOps pipelines
+
+Together, they are the backbone of modern DevOps practices.
+
+---
+
+➡️ Next step in learning:
+ci-cd/ci-cd-basics.md → CI/CD concepts & pipelines
