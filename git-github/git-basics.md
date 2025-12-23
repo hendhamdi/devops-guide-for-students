@@ -62,7 +62,7 @@ A branch allows you to work on features **without breaking main code**.
 ### 🔀 Merge
 Merge combines changes from one branch into another.
 
-![Git Branching](https://lh3.googleusercontent.com/gg-dl/ABS2GSlcWCk6-XxVmhg8GpI1_-hg22tdBWCf4K_XuISO1r5vJ10egwKzDuh_zwq5dceQB5pF8nYulu4sEZzYmcXH3ONpZ0muXsSiJPzYg3kdU2HAsaQ_KoGqxIZ3QH4Linvr0drugDiJMGEn8H6qUN2cIh7q5XqeamcQcFS_JQfcXWGcRndTaw=s1024-rj "Git Branching Diagram")
+![Git Branching](https://i0.wp.com/www.intertech.com/wp-content/uploads/2021/10/IntroToGitConcepts.png?resize=612%2C541&ssl=1 "Git Branching Diagram")
 
 ---
 
@@ -99,7 +99,7 @@ git pull              # Download updates
 
 - CI/CD pipeline runs automatically
 
-![Git Workflow](../resources/images/git-basics/Git-Workflow.png "Git Workflow Diagram")
+![Git Workflow](https://lh3.googleusercontent.com/gg-dl/ABS2GSlpBZWQZNN8jHgkCY-8HmU7ZW1DNZOFLT2z4rA7gOBEHg0-Ql2W9lY89ljTyD7WfkgDZHBMhzJE9q7n2RQDRxNgQb187RhvXDah2fAZiFevuTHWBiCMErE4PNlrVQSlVB6f-ZK4TEFh2S9n7Yn8TqcNIQb_E0ueBLEFz3zsrGgMevrFPw=s1024-rj "Git Workflow Diagram")
 
   ---
 
