@@ -33,7 +33,7 @@ They enable **version control, collaboration, automation, and CI/CD workflows**.
 - GitHub Actions (CI/CD)
 - Code reviews
 
-![GitHub Pull Request Workflow](https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png)
+![GitHub Pull Request Workflow](https://enggkatta.com/wp-content/uploads/2024/06/introduction-to-github-800x445.jpg)
 
 ---
 
