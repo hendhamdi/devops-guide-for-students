@@ -42,7 +42,6 @@ This file lists **free and high-quality resources** to help students learn DevOp
 - [The DevOps Handbook (summary & notes)](https://itrevolution.com/book/the-devops-handbook/)
 - [Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
 - [Kubernetes Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
-- [Prometheus: Up & Running (O’Reilly)](https://www.oreilly.com/library/view/prometheus-up/9781492034140/)
 
 ---
 
@@ -50,7 +49,6 @@ This file lists **free and high-quality resources** to help students learn DevOp
 
 - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) – Full courses on Git, Docker, CI/CD, K8s
 - [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana) – DevOps tutorials with diagrams
-- [The Net Ninja](https://www.youtube.com/@TheNetNinja) – Git, Docker, CI/CD series
 
 ---
 
