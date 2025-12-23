@@ -66,7 +66,7 @@ Plan → Code → Build → Test → Release → Deploy → Operate → Monitor 
 
 *Illustration showing DevOps as the intersection of Development, Operations, and Quality Assurance*
 
-Source: [TheByte](https://www.thebyte.com.cn/assets/devops-2b77852c.jpeg](https://www.thebyte.com.cn/architecture/devops.html)
+Source:(https://www.h-x.technology/services/devops)
 
 ---
 
