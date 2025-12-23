@@ -36,7 +36,7 @@ that allows teams to **deliver software faster, reliably, and safely**.
 4. **Deploy** – Push to staging/production  
 5. **Monitor** – Check application health, logs, and alerts
 
-![CI/CD Pipeline](../resources/images/ci-cd/CI-CD-Pipeline.png "Typical CI/CD Pipeline")
+![CI/CD Pipeline](../resources/images/ci-cd/cd_ci-cd-pipeline-stages.jpeg "Typical CI/CD Pipeline")
 
 ---
 
@@ -51,17 +51,6 @@ that allows teams to **deliver software faster, reliably, and safely**.
 
 ### Feedback
 - Developers get **immediate feedback** on test failures or build errors
-
----
-
-## 🧠 CI/CD Tools Overview
-
-| Category | Tools |
-|----------|-------|
-| CI/CD Platform | GitHub Actions, Jenkins, GitLab CI, CircleCI |
-| Containerization | Docker, Podman |
-| Orchestration | Kubernetes, Docker Swarm |
-| Monitoring | Prometheus, Grafana |
 
 ---
 
@@ -102,7 +91,7 @@ jobs:
 
 ---
 
-##📌 Summary
+## 📌 Summary
 
 CI/CD automates testing, build, and deployment
 
@@ -110,7 +99,7 @@ Reduces manual errors and increases delivery speed
 
 Forms the backbone of modern DevOps workflows
 
----
+
 
 ➡️ Next step in learning:
 
