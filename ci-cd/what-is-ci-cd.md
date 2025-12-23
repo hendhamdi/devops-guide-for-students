@@ -94,8 +94,11 @@ jobs:
 ## 📌 Summary
 
 CI/CD automates testing, build, and deployment
+
 Reduces manual errors and increases delivery speed
+
 Forms the backbone of modern DevOps workflows
+
 
 
 ➡️ Next step in learning:
