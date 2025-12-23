@@ -102,5 +102,4 @@ Forms the backbone of modern DevOps workflows
 
 
 ➡️ Next step in learning:
-
-docker/docker-basics.md → Docker fundamentals
+`docker/docker-basics.md` → Docker fundamentals
