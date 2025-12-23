@@ -46,14 +46,6 @@ This file lists **free and high-quality resources** to help students learn DevOp
 
 ---
 
-## 🛠️ Tools & Playground Environments
-
-- [Katacoda](https://www.katacoda.com/) – Interactive DevOps scenarios (Docker, Kubernetes, CI/CD)
-- [Play with Docker](https://labs.play-with-docker.com/) – Online Docker playground
-- [Play with Kubernetes](https://labs.play-with-k8s.com/) – Online K8s clusters
-
----
-
 ## 📺 YouTube Channels
 
 - [freeCodeCamp.org](https://www.youtube.com/@freecodecamp) – Full courses on Git, Docker, CI/CD, K8s
