@@ -79,7 +79,7 @@ By analyzing metrics history:
 
 ## 🖼️ Monitoring Architecture Diagram
 
-![Prometheus & Grafana Monitoring](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Prometheus_Architecture.png/800px-Prometheus_Architecture.png "Prometheus & Grafana Monitoring")
+![Prometheus & Grafana Monitoring](https://devopscube.com/content/images/2025/03/prometheus-architecture.gif "Prometheus & Grafana Monitoring")
 
 *Diagram showing the Prometheus monitoring stack: exporters, scraping, and Grafana for visualization.*  
 Source: Wikimedia Commons
