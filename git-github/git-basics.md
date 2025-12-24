@@ -128,4 +128,4 @@ Together, they are the backbone of modern DevOps practices.
 
 ➡️ Next step in learning:
 
-`ci-cd/ci-cd-basics.md` → CI/CD concepts & pipelines
+`docker/docker-basics.md` → Docker fundamentals
