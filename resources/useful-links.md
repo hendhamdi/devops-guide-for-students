@@ -27,21 +27,21 @@ This file lists **free and high-quality resources** to help students learn DevOp
   - [Try Git (interactive)](https://try.github.io/)  
   - [Introduction to Git and GitHub - Coursera](https://www.coursera.org/learn/introduction-git-github)
 - **Docker**
-  - [Docker for Beginners - freeCodeCamp](https://www.youtube.com/watch?v=3c-iBn73dDE)
+  - [Docker for Beginners - freeCodeCamp](https://www.coursera.org/courses?query=docker&msockid=185e80aad6f86c90067392eed7136d68)
 - **CI/CD**
-  - [GitHub Actions Tutorial - freeCodeCamp](https://www.youtube.com/watch?v=R8_veQiYBjI)
+  - [GitHub Actions Tutorial - freeCodeCamp](https://www.classcentral.com/subject/ci-cd)
 - **Kubernetes**
   - [Kubernetes Basics - Kubernetes Official](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 - **Monitoring**
-  - [Prometheus & Grafana - freeCodeCamp](https://www.youtube.com/watch?v=2D52X0emlJo)
+  - [Prometheus & Grafana - freeCodeCamp](https://www.coursera.org/learn/monitoring-and-observability-for-development-and-devops?msockid=185e80aad6f86c90067392eed7136d68)
 
 ---
 
 ## 📘 Books (Free / Open Source)
 
 - [The DevOps Handbook (summary & notes)](https://itrevolution.com/book/the-devops-handbook/)
-- [Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
-- [Kubernetes Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+- [Docker Cheat Sheet](https://dev.to/bobbyiliev/5-best-docker-books-for-beginners-4k38)
+- [Kubernetes Cheat Sheet](https://www.dbooks.org/hashtags/kubernetes/)
 
 ---
 
