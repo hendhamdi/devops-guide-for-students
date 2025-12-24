@@ -119,10 +119,8 @@ git pull              # Download updates
 
 ## 📌 Summary
 
-Git manages code versions locally
-GitHub enables collaboration, automation, and DevOps pipelines
-
-Together, they are the backbone of modern DevOps practices.
+- Git manages code versions locally
+- GitHub enables collaboration, automation, and DevOps pipelines
 
 
 
