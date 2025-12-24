@@ -8,21 +8,21 @@ It allows teams to **detect issues early, analyze performance, and take proactiv
 ## 🎯 Objectives
 
 By the end of this guide, you will be able to:  
-- Understand what monitoring is and why it is essential  
-- Monitor servers and Docker containers  
-- Centralize metrics with Prometheus  
-- Visualize and analyze metrics with Grafana  
-- Apply monitoring in a DevOps workflow
+- Understand what monitoring is and why it is essential.  
+- Monitor servers and Docker containers.  
+- Centralize metrics with Prometheus.  
+- Visualize and analyze metrics with Grafana.  
+- Apply monitoring in a DevOps workflow.
 
 ---
 
 ## 🧩 What is Monitoring?
 
 Monitoring is the **continuous observation of system health** to:  
-- Detect anomalies  
-- Measure performance  
-- Prevent failures  
-- Ensure service availability  
+- Detect anomalies.  
+- Measure performance.  
+- Prevent failures.  
+- Ensure service availability.  
 
 ---
 
@@ -30,8 +30,8 @@ Monitoring is the **continuous observation of system health** to:
 
 ### 1️⃣ Fast Incident Detection
 - Know immediately if: CPU is overloaded, memory is full, a container restarts, or a service fails.  
-- Without monitoring ❌ → delayed detection  
-- With monitoring ✅ → immediate response
+- Without monitoring ❌ → delayed detection.  
+- With monitoring ✅ → immediate response.
 
 ### 2️⃣ Performance Tracking
 - Answers questions like:  
@@ -43,11 +43,11 @@ Monitoring is the **continuous observation of system health** to:
 - Historical metrics allow spotting abnormal trends and **preventing outages** before they impact users.
 
 ### 4️⃣ Monitoring ≠ Logs ≠ Security
-| Element   | Role                                         |
+| Element    | Role                                         |
 |-----------|---------------------------------------------|
-| Monitoring | System health, CPU, RAM, availability       |
-| Logs      | Application errors, requests               |
-| Security  | Vulnerabilities, attacks                   |
+| Monitoring | System health: CPU, RAM, availability       |
+| Logs       | Application errors, requests                |
+| Security   | Vulnerabilities, attacks                    |
 
 Monitoring **complements logs and security**.
 
@@ -56,37 +56,33 @@ Monitoring **complements logs and security**.
 ## 🧰 Monitoring Stack Overview
 
 ### Prometheus
-- Collects and stores time-series metrics  
-- Scrapes metrics from servers and containers  
-- Supports querying with PromQL  
+- Collects and stores time-series metrics.  
+- Scrapes metrics from servers and containers.  
+- Supports querying with PromQL.
 
 ### Node Exporter
-- Monitors Linux host metrics: CPU, RAM, disk, network  
-- Helps identify if issues are at the server level
-
-### cAdvisor
-- Monitors Docker container metrics: CPU, RAM, I/O, restarts  
-- Helps pinpoint problematic containers
+- Monitors Linux host metrics: CPU, RAM, disk, network.  
+- Helps identify server-level issues.
 
 ### Grafana
-- Creates **visual dashboards**  
-- Analyzes metrics in real-time  
-- Shares insights with teams
+- Creates **visual dashboards**.  
+- Analyzes metrics in real-time.  
+- Shares insights with teams.
 
 ---
 
 ## 🌐 Architecture Diagram
 
-![Monitoring Architecture](https://raw.githubusercontent.com/DevOps-Lebondeveloppeur/devops-scripts/main/provision/roles/monitoring/templates/monitoring-architecture.png "Monitoring Stack Architecture")
+![Monitoring Architecture](https://miro.medium.com/v2/resize:fit:1200/1*v-ohSTzLH_AWPBFRM44d5Q.png "Monitoring Stack Architecture")
 
-*Shows Prometheus, Node Exporter, cAdvisor, and Grafana integration*
+*Shows Prometheus, Node Exporter, and Grafana integration.*
 
 ---
 
 ## 📦 Deploying the Monitoring Stack
 
-- Requires **Docker** and **Docker Compose**  
-- Ports: `9090` (Prometheus), `3006` (Grafana)  
+- Requires **Docker** and **Docker Compose**.  
+- Ports: `9090` (Prometheus), `3006` (Grafana).  
 
 ### Docker Compose Example
 
@@ -102,18 +98,17 @@ services:
     image: prom/node-exporter:latest
     ports:
       - 9100:9100
-  cadvisor:
-    image: gcr.io/cadvisor/cadvisor:latest
-    ports:
-      - 8080:8080
   grafana:
     image: grafana/grafana:latest
     ports:
       - 3006:3000
+
 ```
+Start the stack
 ```bash
 docker compose up -d
 ```
+Verify running containers
 ```bash
 docker ps
 ```
@@ -150,7 +145,7 @@ Provides clear visualizations
 
 Uses a standard and scalable stack
 
-Stack: Prometheus + Node Exporter + cAdvisor + Grafana → robust, open-source, modern DevOps solution
+Stack: Prometheus + Node Exporter + Grafana → robust, open-source, modern DevOps solution
 
 ---
 
