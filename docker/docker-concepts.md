@@ -106,4 +106,5 @@ It is a key tool in DevOps pipelines
 
 ➡️ Next step in learning:
 
-`kubernetes/kubernetes-basics.md` → Kubernetes fundamentals
+`ci-cd/ci-cd-basics.md` → CI/CD concepts & pipelines
+
