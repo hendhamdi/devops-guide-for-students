@@ -137,17 +137,13 @@ Monitoring is essential for a complete DevOps workflow.
 
 ## 📌 Summary
 
-Monitors servers and containers
+- Monitors servers and containers
+- Detects incidents quickly
+- Provides clear visualizations
+- Uses a standard and scalable stack
+- Stack: Prometheus + Node Exporter + Grafana → robust, open-source, modern DevOps solution
 
-Detects incidents quickly
 
-Provides clear visualizations
-
-Uses a standard and scalable stack
-
-Stack: Prometheus + Node Exporter + Grafana → robust, open-source, modern DevOps solution
-
----
 
 ➡️ Next step in learning:
 
