@@ -146,4 +146,4 @@ Monitoring is essential for a complete DevOps workflow.
 
 ➡️ Next step in learning:
 
-`student-guide/resources.md` → Free resources, courses, and guides for DevOps students  
+`resources/resources.md` → Free resources, courses, and guides for DevOps students  
