@@ -81,9 +81,8 @@ Monitoring **complements logs and security**.
 
 ## 📦 Deploying the Monitoring Stack
 
-- Requires **Docker** and **Docker Compose**.  
-- Ports: `9090` (Prometheus), `3006` (Grafana).  
-
+- Requires **Docker** and **Docker Compose**.
+  
 ### Docker Compose Example
 
 ```yaml
