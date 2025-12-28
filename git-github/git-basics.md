@@ -125,4 +125,4 @@ git pull              # Download updates
 
 
 ➡️ Next step in learning:
-`docker/docker-basics.md` → Docker fundamentals
+   `docker/docker-basics.md` → Docker fundamentals
