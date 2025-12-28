@@ -87,13 +87,13 @@ CMD ["node", "index.js"]
 ## 🔑 Docker Commands Cheat Sheet
 
 ```bash
-docker build -t myapp .       # Build an image
-docker images                  # List images
+docker build -t myapp .           # Build an image
+docker images                     # List images
 docker run -d -p 3000:3000 myapp  # Run container
-docker ps                      # List running containers
-docker stop <container_id>     # Stop container
-docker rm <container_id>       # Remove container
-docker rmi <image_id>          # Remove image
+docker ps                         # List running containers
+docker stop <container_id>        # Stop container
+docker rm <container_id>          # Remove container
+docker rmi <image_id>             # Remove image
 ```
 
 ---
